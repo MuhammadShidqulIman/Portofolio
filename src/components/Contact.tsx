@@ -42,12 +42,6 @@ const socialLinks: SocialLink[] = [
     color: "hover:text-pink-400 hover:border-pink-500/50 hover:shadow-[0_0_15px_rgba(236,72,153,0.4)]",
   },
   {
-    name: "Twitter / X",
-    icon: Twitter,
-    href: "https://twitter.com",
-    color: "hover:text-emerald-400 hover:border-emerald-500/50 hover:shadow-[0_0_15px_rgba(16,185,129,0.4)]",
-  },
-  {
     name: "Email",
     icon: Mail,
     href: "mailto:shidquliman@example.com",
